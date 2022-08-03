@@ -1,0 +1,81 @@
+*{
+    background: rgb(229,174,238);
+background: linear-gradient(90deg, rgba(229,174,238,1) 0%, rgba(148,187,233,1) 63%, rgba(0,212,255,1) 100%);
+}
+.top{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+h4{
+    background: transparent;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-size: xx-large;
+    font-weight: 900;
+}
+input{
+    margin: .8rem 2rem 2rem 0;
+    display: block;
+    font-size: 1.1rem;
+    border: none;
+    border-bottom: 1px solid rgb(153, 149, 149);
+    width: 60%;
+    background-color: transparent;
+    background: transparent;
+    
+}
+label{
+    background: transparent;
+    font-family: 'Poppins', sans-serif;
+    font-size: x-large;
+    color: white;
+    font-weight: 700;
+}
+.buttonsec{
+    margin-top: .2rem;
+    width: 100%;
+    text-align: center;
+    
+}
+.buttonsec button{
+    margin-top: .2rem;
+    border-radius: 10px;
+    display: inline-block;
+    padding: .5rem 4rem;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.2rem;
+    color: white;
+
+}
+.perperson{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+#perperson{
+    color: white;
+    font-size: x-large;
+    background-color: transparent;
+    background: transparent;
+    text-align: center;
+    padding: 22px;
+    font-size: x-large;
+    font-weight: 900;
+}
+.lastbtn{
+    margin-top: .1px;
+    width: 100%;
+    text-align: center;
+}
+.lastbtn button{
+    margin-top: .1px;
+    border-radius: 10px;
+    display: inline-block;
+    padding: .5rem 4rem;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.2rem;
+    color: white;
+}
